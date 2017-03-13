@@ -12,3 +12,5 @@ technology document &amp; link url
  [如何用一周时间开发一款Android APP并在Google Play上线 - 上](http://www.jianshu.com/p/b08e3ef22bce)
  
  [Android架构思考(模块化、多进程)](http://blog.spinytech.com/2016/12/28/android_modularization/) 附：[github地址](https://github.com/SpinyTech/ModularizationArchitecture) && [使用教程](http://blog.spinytech.com/2017/02/01/ma_get_start_cn/)
+ [Gradle版本管理-升级与降级](http://hucaihua.cn/2016/09/27/Gradle_upgrade/)
+ https://developer.android.com/studio/releases/gradle-plugin.html
