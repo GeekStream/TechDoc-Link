@@ -14,3 +14,12 @@ technology document &amp; link url
  [Android架构思考(模块化、多进程)](http://blog.spinytech.com/2016/12/28/android_modularization/) 附：[github地址](https://github.com/SpinyTech/ModularizationArchitecture) && [使用教程](http://blog.spinytech.com/2017/02/01/ma_get_start_cn/)
  [Gradle版本管理-升级与降级](http://hucaihua.cn/2016/09/27/Gradle_upgrade/)
  https://developer.android.com/studio/releases/gradle-plugin.html
+ 
+插件化：
+https://www.figotan.org/2016/08/12/android-plugin-and-hotfix-collections/
+https://github.com/tiann/understand-plugin-framework
+http://www.androidblog.cn/index.php/Index/detail/id/16
+
+Windows下weex环境搭建：
+http://blog.csdn.net/jizi7618937/article/details/51611629
+
