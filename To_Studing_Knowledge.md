@@ -24,3 +24,4 @@ Windows下weex环境搭建：
 http://blog.csdn.net/jizi7618937/article/details/51611629
 
 https://blog.piasy.com/ 徐建林博客
+http://www.inoreader.com/feed/http%3A%2F%2Fblog.piasy.com%2Ffeed.xml RSS
